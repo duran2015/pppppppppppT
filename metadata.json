@@ -1,0 +1,6 @@
+{
+  "name": "Zerone 提案",
+  "description": "Zerone 医院专家智能服务平台产品提案，支持10页增强版幻灯片展示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
